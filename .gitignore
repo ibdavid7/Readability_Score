@@ -1,0 +1,84 @@
+# Project exclude paths
+/.gradle/
+/Problems/2 weeks after/out/
+/Problems/2 weeks after/out/production/classes/
+/Problems/10 days before/out/
+/Problems/10 days before/out/production/classes/
+/Problems/30 years before and after/out/
+/Problems/30 years before and after/out/production/classes/
+/Problems/Add days and subtract hours/out/
+/Problems/Add days and subtract hours/out/production/classes/
+/Problems/Add 11 hours and print the date/out/
+/Problems/Add 11 hours and print the date/out/production/classes/
+/Problems/Adding N minutes/out/
+/Problems/Adding N minutes/out/production/classes/
+/Problems/Check IP address/out/
+/Problems/Check IP address/out/production/classes/
+/Problems/Check the clock time/out/
+/Problems/Check the clock time/out/production/classes/
+/Problems/Convert numbers to days/out/
+/Problems/Convert numbers to days/out/production/classes/
+/Problems/Don't be late again/out/
+/Problems/Don't be late again/out/production/classes/
+/Problems/Extracting words from a text/out/
+/Problems/Extracting words from a text/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Find all mondays/out/
+/Problems/Find all mondays/out/production/classes/
+/Problems/Find all passwords/out/
+/Problems/Find all passwords/out/production/classes/
+/Problems/Find the latest date-time/out/
+/Problems/Find the latest date-time/out/production/classes/
+/Problems/Getting information on a day/out/
+/Problems/Getting information on a day/out/production/classes/
+/Problems/How many date-time pairs match the range/out/
+/Problems/How many date-time pairs match the range/out/production/classes/
+/Problems/Illegal identifiers/out/
+/Problems/Illegal identifiers/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Is the date between the two other dates/out/
+/Problems/Is the date between the two other dates/out/production/classes/
+/Problems/Merging date-time instances/out/
+/Problems/Merging date-time instances/out/production/classes/
+/Problems/Number parsing/out/
+/Problems/Number parsing/out/production/classes/
+/Problems/Print dates of a year with an offset/out/
+/Problems/Print dates of a year with an offset/out/production/classes/
+/Problems/Remove comments/out/
+/Problems/Remove comments/out/production/classes/
+/Problems/Return time without seconds/out/
+/Problems/Return time without seconds/out/production/classes/
+/Problems/Safe password/out/
+/Problems/Safe password/out/production/classes/
+/Problems/Seconds between two time points/out/
+/Problems/Seconds between two time points/out/production/classes/
+/Problems/Seconds since start of a day/out/
+/Problems/Seconds since start of a day/out/production/classes/
+/Problems/Some hours and minutes ago/out/
+/Problems/Some hours and minutes ago/out/production/classes/
+/Problems/Start or end of a word/out/
+/Problems/Start or end of a word/out/production/classes/
+/Problems/Subtracting hours and adding minutes/out/
+/Problems/Subtracting hours and adding minutes/out/production/classes/
+/Problems/The first and the last day of a month/out/
+/Problems/The first and the last day of a month/out/production/classes/
+/Problems/The first day of a month or not/out/
+/Problems/The first day of a month or not/out/production/classes/
+/Problems/The intersection of time ranges/out/
+/Problems/The intersection of time ranges/out/production/classes/
+/Problems/The last day of a month/out/
+/Problems/The last day of a month/out/production/classes/
+/Problems/The n-th day from the end of a month/out/
+/Problems/The n-th day from the end of a month/out/production/classes/
+/Problems/The New Year is coming (or not)/out/
+/Problems/The New Year is coming (or not)/out/production/classes/
+/Problems/The passed hours since the beginning of year/out/
+/Problems/The passed hours since the beginning of year/out/production/classes/
+/Problems/Whole hours between two date-time pairs/out/
+/Problems/Whole hours between two date-time pairs/out/production/classes/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
+/Readability Score/task/out/test/classes/
